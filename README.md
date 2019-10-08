@@ -18,7 +18,7 @@ This is a simple HotelManagement tool that utilizes data from/to the sql databas
 * Kitchen - Username: kitchen , password: kitchen
 * FrontEnd - Username: admin , password: admin
  
-# Open Source frameworks:
+# [Open Source frameworks]:
 * Modern UI - most of the metro UI implimented using this open source framework
 * license under: MIT - http://github.com/viperneo
 
